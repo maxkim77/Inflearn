@@ -1,4 +1,5 @@
 public class HelloJava {
+<<<<<<< HEAD
     public static void main(String[] args){
         sayHello();
         sayHelloTo("Chicken");
@@ -38,5 +39,10 @@ public class HelloJava {
     }
     public static void sayHello(){
         System.out.println("hello.");
+=======
+    public static void main(String[] args) {
+        System.out.println("hello Java");
+
+>>>>>>> 460fca34ed7cb8c284e2b301a643e51f6ec90a1e
     }
 }
